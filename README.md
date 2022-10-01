@@ -1,1 +1,2 @@
 # Python_library_creation
+Python library creation code. This is a collection of code that I have written to help with the creation of python libraries. This is a work in progress and will be updated as I create more code.
